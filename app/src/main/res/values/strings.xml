@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WhatGarage</string>
+    <string name="all">All</string>
+    <string name="freezer">Freezer</string>
+
+    <string-array name="storeTypes">
+        <item>freezer</item>
+        <item>shelve food</item>
+        <item>cleaning</item>
+        <item>other</item>
+    </string-array>
+</resources>
